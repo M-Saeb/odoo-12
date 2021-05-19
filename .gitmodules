@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/iw_accounting"]
+	path = Integrated-Path/iw_accounting
+	url = git@github.com:Integrated-Path/iw_accounting.git
+	branch = master
